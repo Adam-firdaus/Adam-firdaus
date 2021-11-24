@@ -1,4 +1,6 @@
-[GitHub Pages](https://adam-firdaus.github.io/Adam-firdaus/)
+# adam-firdaus.github.io/Adam-firdaus/
+
+Members :
 - George Washington
 - John Adams
 - Thomas Jefferson

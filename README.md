@@ -1,6 +1,8 @@
 # adam-firdaus.github.io/Adam-firdaus/
+
+![My image](https://github.com/Adam-firdaus/Adam-firdaus/blob/main/assets/Home.jpg)
+
 :beach_umbrella:
-[My image](username.github.com/repository/img/image.jpg)
 Members :
 - George Washington
 - John Adams

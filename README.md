@@ -1,6 +1,6 @@
 # adam-firdaus.github.io/Adam-firdaus/
 :beach_umbrella:
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://https://github.com/Adam-firdaus/Adam-firdaus/assets/Home.Jpg)
 Members :
 - George Washington
 - John Adams

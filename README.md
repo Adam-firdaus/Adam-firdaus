@@ -1,9 +1,17 @@
 # adam-firdaus.github.io/Adam-firdaus/
 ![My image](https://github.com/Adam-firdaus/Adam-firdaus/blob/main/assets/Home.jpg)
 
-> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+> Themis adalah Sosok Dewi yang siap menebas setiap keangkaramurkaan yang terjadi.
+Tentu dengan tanpa pandang bulu. Dalam legenda Yunani Kuno terdapat kisah tentang Dewi Themis 
+tentang keadilan yang coba dihadirkan manusia sebagai sebagai wakil Tuhan di muka bumi.
+
+> Themis-Us adalah sebuah web application yang memiliki tool bernama "The Lady" 
+yang mana the lady ini memiliki banyak lelaki yang mana merepresentasikan 
+banyaknya tool yang terinspirasi dari lscript.
 
 :beach_umbrella:
+
+
 Members :
 - George Washington
 - John Adams

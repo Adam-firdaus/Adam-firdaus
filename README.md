@@ -5,7 +5,7 @@
 Tentu dengan tanpa pandang bulu. Dalam legenda Yunani Kuno terdapat kisah tentang Dewi Themis 
 tentang keadilan yang coba dihadirkan manusia sebagai sebagai wakil Tuhan di muka bumi.
 
-> Themis-Us adalah sebuah web application yang memiliki tool bernama "The Lady" 
+> **Themis-Us** adalah sebuah web application yang memiliki tool bernama "The Lady" 
 yang mana the lady ini memiliki banyak lelaki yang mana merepresentasikan 
 banyaknya tool yang terinspirasi dari lscript.
 
